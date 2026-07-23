@@ -1,0 +1,12 @@
+{
+  "name": "infinyty-tech-deck-pdf",
+  "version": "1.0.0",
+  "description": "PDF generation and export scripts for the Infinyty Tech client slide deck",
+  "main": "export_pdf.js",
+  "scripts": {
+    "export": "node export_pdf.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
